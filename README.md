@@ -16,3 +16,12 @@ Dark UI decision tool skeleton for fusion with the content site (esim.getstylegr
 - Content pages must stay static HTML for SEO.
 
 This is a starting skeleton. Full recommendation engine, day ledger, 7 languages, and PlaceFrame crossfade to be completed during fusion.
+
+<!-- project-catalog:start -->
+
+## Repository classification
+
+- **Primary category:** 01 — Products & Platforms
+- **Project type:** Interactive web application / decision tool
+- **Domain:** Travel eSIM plan comparison and recommendation experience
+<!-- project-catalog:end -->
